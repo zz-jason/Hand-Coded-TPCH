@@ -29,17 +29,17 @@ The defailt scale factor is 1, to generate a larger csv file, take a look at `Ma
 
 ### 2.1 Hyper
 
-[2011 VLDB: "Efficiently Compiling Efficient Query Plans for Modern Hardware"](http://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
-[2011 ICDE: "HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots"](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/slides/hyper.pdf)
+- [2011 VLDB: "Efficiently Compiling Efficient Query Plans for Modern Hardware"](http://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
+- [2011 ICDE: "HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots"](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/slides/hyper.pdf)
 
 ### 2.2 Vectorwise
 
-[2005 CIDR: "MonetDB/X100: Hyper-pipelining query execution"](http://15721.courses.cs.cmu.edu/spring2018/papers/18-execution/boncz-cidr2005.pdf)
-[2012 ICDE: "Vectorwise: A vectorized analytical DBMS. In Data Engineering"](https://pdfs.semanticscholar.org/2e0d/128a5695b02eeb39bd4e06e8eb54990026dd.pdf)
-[2012: "Query Optimization and Execution in Vectorwise MPP"](https://homepages.cwi.nl/~boncz/msc/2012-AndreiCosteaAdrianIonescu.pdf)
-[2015 SIGMOD: "Rethinking SIMD Vectorization for In-Memory Databases"](http://www.cs.columbia.edu/~orestis/sigmod15.pdf)
+- [2005 CIDR: "MonetDB/X100: Hyper-pipelining query execution"](http://15721.courses.cs.cmu.edu/spring2018/papers/18-execution/boncz-cidr2005.pdf)
+- [2012 ICDE: "Vectorwise: A vectorized analytical DBMS. In Data Engineering"](https://pdfs.semanticscholar.org/2e0d/128a5695b02eeb39bd4e06e8eb54990026dd.pdf)
+- [2012: "Query Optimization and Execution in Vectorwise MPP"](https://homepages.cwi.nl/~boncz/msc/2012-AndreiCosteaAdrianIonescu.pdf)
+- [2015 SIGMOD: "Rethinking SIMD Vectorization for In-Memory Databases"](http://www.cs.columbia.edu/~orestis/sigmod15.pdf)
 
 ### 2.3 Peloton
 
-[2017 VLDB: "Relaxed Operator Fusion for In-Memory Databases: Making Compilation, Vectorization, and Prefetching Work Together At Last"](http://www.vldb.org/pvldb/vol11/p1-menon.pdf)
-[2017 CIDR: "Self-Driving Database Management Systems"](https://www.cs.cmu.edu/~jarulraj/papers/2017.ai.cidr.pdf)
+- [2017 VLDB: "Relaxed Operator Fusion for In-Memory Databases: Making Compilation, Vectorization, and Prefetching Work Together At Last"](http://www.vldb.org/pvldb/vol11/p1-menon.pdf)
+- [2017 CIDR: "Self-Driving Database Management Systems"](https://www.cs.cmu.edu/~jarulraj/papers/2017.ai.cidr.pdf)
