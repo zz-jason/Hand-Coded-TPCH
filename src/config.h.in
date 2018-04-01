@@ -1,0 +1,3 @@
+// the configured options and settings for HandCodedTPCH
+#define HandCodedTPCH_VERSION_MAJOR @HandCodedTPCH_VERSION_MAJOR@
+#define HandCodedTPCH_VERSION_MINOR @HandCodedTPCH_VERSION_MINOR@
