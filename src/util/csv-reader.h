@@ -5,8 +5,10 @@
 
 #include <iostream>
 #include <stdio.h>
-#include <time.h>
+#include <string.h>
 #include <stdlib.h>
+#include <stddef.h>
+#include <stdint.h>
 
 namespace hctpch {
 namespace util {
@@ -23,7 +25,7 @@ void CutOneField(char** input, int32_t* output, MemoryManager* memManager) {
     while (*end != '|') ++end;
     *end = '\0';
 
-    *output = std::atoi(begin);
+    *output = atoi(begin);
     *input  = end + 1;
 }
 
@@ -35,7 +37,7 @@ void CutOneField(char** input, double* output, MemoryManager* memManager) {
     while (*end != '|') ++end;
     *end = '\0';
 
-    *output = std::atof(begin);
+    *output = atof(begin);
     *input  = end + 1;
 }
 

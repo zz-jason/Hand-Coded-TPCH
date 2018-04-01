@@ -2,6 +2,8 @@
 #define HCTH_UTIL_MEMORY_MANAGER_H
 
 #include <assert.h>
+#include <stddef.h>
+#include <stdint.h>
 
 namespace hctpch {
 namespace util {
